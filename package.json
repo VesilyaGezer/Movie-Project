@@ -1,0 +1,19 @@
+{
+  "name": "movie-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VesilyaGezer/Movie-Project.git"
+  },
+  "author": "vesilyagezer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VesilyaGezer/Movie-Project/issues"
+  },
+  "homepage": "https://github.com/VesilyaGezer/Movie-Project#readme"
+}
